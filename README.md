@@ -88,4 +88,10 @@ nkpendyamgdg@gmail.com
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/nkpendyam/nkpendyam/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ⭐ **Turning data into insights and ideas into impactful products.**
