@@ -56,11 +56,11 @@ I enjoy transforming **data, user behavior, and business requirements** into mea
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkpendyam&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nkpendyam&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkpendyam&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nkpendyam&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
