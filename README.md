@@ -57,10 +57,12 @@ I enjoy transforming **data, user behavior, and business requirements** into mea
 ## 📊 GitHub Stats
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkpendyam&show_icons=true&theme=tokyonight)
 
+## 💻 Most Used Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkpendyam&layout=compact&theme=tokyonight)
----
 
 ## 🔥 GitHub Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nkpendyam&theme=tokyonight)
 
 ---
