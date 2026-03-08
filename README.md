@@ -1,52 +1,51 @@
 # 👋 Hi, I'm Naveen Kumar
 
-💡 Aspiring **Business Analyst | Product Enthusiast | Data-Driven Problem Solver**
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Aspiring+Business+Analyst;Product+Enthusiast;Data+Driven+Problem+Solver;Passionate+About+Technology)
 
-I enjoy transforming **data, user behavior, and business requirements** into meaningful insights that drive product decisions. My focus is on **product analytics, business analysis, and building efficient solutions through technology and research.**
+![Profile Views](https://komarev.com/ghpvc/?username=nkpendyam&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 ## 🚀 About Me
+
+💡 Aspiring **Business Analyst | Product Enthusiast | Data-Driven Problem Solver**
+
+I enjoy transforming **data, user behavior, and business requirements** into meaningful insights that drive product decisions.
+
 - 🎓 Student interested in **Business Analysis, Product Management, and Data Analytics**
 - 📊 Passionate about **understanding user behavior and market trends**
 - 🧠 Strong focus on **analytical thinking and problem solving**
-- 🔍 Interested in **product strategy, competitive analysis, and KPI-driven development**
-- 🤝 Experienced in collaborating with **cross-functional teams in agile environments**
+- 🔍 Interested in **product strategy and KPI-driven development**
+- 🤝 Experienced in **Agile product environments**
 
 ---
 
-## 🛠 Skills
+# 🧠 Skills & Tools
 
-### Business & Product Analysis
+### Business & Analysis
 - Requirement Gathering  
-- Use Case & User Story Creation  
-- Market & Competitor Research  
-- KPI & Metrics Definition  
-- Product Lifecycle Understanding  
+- User Stories  
+- Market Research  
+- KPI Analysis  
+- Product Lifecycle  
 
 ### Tools
-- Microsoft Excel  
-- PowerPoint  
-- JIRA  
-- Confluence  
+<p>
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=notion" />
+</p>
 
 ### Technical Interests
-- Data Analysis  
+- Data Analytics  
 - Product Strategy  
 - Agile Methodologies  
-- Process Flow & Wireframing  
+- Process Flow Design  
 
 ---
 
-## 📈 What I Work On
-- 📊 Business analytics projects  
-- 🔎 Market research and competitor analysis  
-- 📑 Product documentation and requirement analysis  
-- ⚙️ Process optimization and workflow design  
+# 🌱 Currently Learning
 
----
-
-## 🌱 Currently Learning
 - Advanced **Data Analytics**
 - **Product Management frameworks**
 - **Business Intelligence tools**
@@ -54,27 +53,39 @@ I enjoy transforming **data, user behavior, and business requirements** into mea
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nkpendyam&show_icons=true&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nkpendyam&layout=compact&theme=tokyonight)onight)
-
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nkpendyam&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/nawin01
+# 📈 Contribution Graph
 
-- 📧 Email: nkpendyamgdg@gmail.com
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nkpendyam&theme=tokyo-night)
 
 ---
 
-⭐ *“Turning data into insights and ideas into impactful products.”*
+# 📌 Featured Projects
+
+### 📊 Business Analytics Dashboard
+Analyze product KPIs and user engagement metrics.
+
+### 🔎 Market Research Analysis
+Competitor and industry research project.
+
+### 📈 Data Visualization Project
+Data insights using analytics and visualization techniques.
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/nawin01
+
+📧 Email  
+nkpendyamgdg@gmail.com
+
+---
+
+⭐ **Turning data into insights and ideas into impactful products.**
