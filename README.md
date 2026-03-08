@@ -58,7 +58,6 @@ I enjoy transforming **data, user behavior, and business requirements** into mea
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkpendyam&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkpendyam&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🔥 GitHub Streak
@@ -67,7 +66,7 @@ I enjoy transforming **data, user behavior, and business requirements** into mea
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (https://www.linkedin.com/in/nawin01/)
+- 💼 LinkedIn: https://www.linkedin.com/in/nawin01/
 - 📧 Email: nkpendyamgdg@gmail.com
 
 ---
