@@ -55,7 +55,8 @@ I enjoy transforming **data, user behavior, and business requirements** into mea
 ---
 
 ## 📊 GitHub Stats
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkpendyam&show_icons=true&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkpendyam&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages
 
