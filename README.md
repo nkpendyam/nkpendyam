@@ -56,11 +56,13 @@ I enjoy transforming **data, user behavior, and business requirements** into mea
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nkpendyam&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nkpendyam&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nkpendyam&layout=compact&theme=tokyonight)onight)
 
 ## 🔥 GitHub Streak
 
@@ -69,7 +71,8 @@ I enjoy transforming **data, user behavior, and business requirements** into mea
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/nawin01/
+- 💼 LinkedIn: www.linkedin.com/in/nawin01
+
 - 📧 Email: nkpendyamgdg@gmail.com
 
 ---
