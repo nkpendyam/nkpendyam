@@ -1,97 +1,31 @@
-# 👋 Hi, I'm Naveen Kumar
+# Hi, I'm Naveen Kumar Pendyam 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Aspiring+Business+Analyst;Product+Enthusiast;Data+Driven+Problem+Solver;Passionate+About+Technology)
+**Data Analyst · ML Practitioner · Python Developer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=nkpendyam&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-## 🚀 About Me
-
-💡 Aspiring **Business Analyst | Product Enthusiast | Data-Driven Problem Solver**
-
-I enjoy transforming **data, user behavior, and business requirements** into meaningful insights that drive product decisions.
-
-- 🎓 Student interested in **Business Analysis, Product Management, and Data Analytics**
-- 📊 Passionate about **understanding user behavior and market trends**
-- 🧠 Strong focus on **analytical thinking and problem solving**
-- 🔍 Interested in **product strategy and KPI-driven development**
-- 🤝 Experienced in **Agile product environments**
+📍 Bengaluru, India  |  🎓 BCA — Presidency University  |  🌐 Portfolio: https://nkpendyamportfolio.vercel.app
 
 ---
 
-# 🧠 Skills & Tools
+### 🔍 What I Build
 
-### Business & Analysis
-- Requirement Gathering  
-- User Stories  
-- Market Research  
-- KPI Analysis  
-- Product Lifecycle  
+I work at the intersection of data analysis and machine learning — building end-to-end pipelines from raw data to deployed models.
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://skillicons.dev/icons?i=notion" />
-</p>
-
-### Technical Interests
-- Data Analytics  
-- Product Strategy  
-- Agile Methodologies  
-- Process Flow Design  
+| Project | Stack | Focus |
+|---|---|---|
+| [Brain Tumor Detection](https://github.com/nkpendyam/Brain_Tumor_Detection_Using_Image_Processing) | CNN/Transformer Ensemble, PyTorch, Gradio | Healthcare AI - 98.25% accuracy |
+| [Lung Cancer Prediction](https://github.com/nkpendyam/Lung_cancer_prediction) | scikit-learn, Python | Health ML - 91.26% accuracy |
+| [Credit Card Default Risk Analysis](https://github.com/nkpendyam/credit-card-default-risk-analysis) | Pandas, EDA, Logistic Regression, Random Forest | Financial Risk Analytics |
+| [Kyro IDE](https://github.com/nkpendyam/Kyro_IDE) | Rust, Next.js, Local LLMs | AI Developer Tools |
 
 ---
 
-# 🌱 Currently Learning
+### 🛠️ Skills
 
-- Advanced **Data Analytics**
-- **Product Management frameworks**
-- **Business Intelligence tools**
-- **SQL & Data Visualization**
+`Python` `SQL` `Pandas` `scikit-learn` `Power BI` `Excel` `Flask` `XGBoost` `CNN` `EDA` `Data Visualization`
 
 ---
 
-# 🔥 GitHub Streak
+### 📥 Connect
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nkpendyam&theme=tokyonight)
-
----
-
-# 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nkpendyam&theme=tokyo-night)
-
----
-
-# 📌 Featured Projects
-
-### 📊 Business Analytics Dashboard
-Analyze product KPIs and user engagement metrics.
-
-### 🔎 Market Research Analysis
-Competitor and industry research project.
-
-### 📈 Data Visualization Project
-Data insights using analytics and visualization techniques.
-
----
-
-# 📫 Connect With Me
-
-💼 LinkedIn  
-https://www.linkedin.com/in/nawin01
-
-📧 Email  
-nkpendyamgdg@gmail.com
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/nkpendyam/nkpendyam/blob/output/github-contribution-grid-snake.svg)
-
----
-
-⭐ **Turning data into insights and ideas into impactful products.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nawin01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://nkpendyamportfolio.vercel.app)
