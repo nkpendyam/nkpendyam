@@ -22,7 +22,7 @@
 
 💬 Happy to talk about: data cleaning, classification models, dashboards, or dev tooling.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nawin01) or via my [portfolio](https://www.nkpendyam.me/).
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nkpendyam) or via my [portfolio](https://www.nkpendyam.me/).
 
 ---
 
@@ -92,7 +92,7 @@ I work at the intersection of data analysis and machine learning, building end-t
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawin01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkpendyam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.nkpendyam.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nkpendyam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nkpendyam.me)
