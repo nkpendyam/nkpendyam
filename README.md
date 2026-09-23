@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions...;Building+ML+pipelines+that+ship;Pandas+%7C+scikit-learn+%7C+PyTorch+%7C+Power+BI;Open+to+Data+Analyst+%2F+ML+roles)](https://www.nkpendyam.me/)
 
-📍 Bengaluru, India &nbsp;|&nbsp; 🎓 BCA — Presidency University &nbsp;|&nbsp; 🌐 [nkpendyam.me](https://www.nkpendyam.me/) &nbsp;|&nbsp; ✉️ [contact@nkpendyam.me](mailto:contact@nkpendyam.me)
+📍 Bengaluru, India &nbsp;|&nbsp; 🎓 BCA Data Science — Presidency University, CGPA 8.4/10 &nbsp;|&nbsp; 🌐 [nkpendyam.me](https://www.nkpendyam.me/) &nbsp;|&nbsp; ✉️ [contact@nkpendyam.me](mailto:contact@nkpendyam.me)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nkpendyam&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
 
