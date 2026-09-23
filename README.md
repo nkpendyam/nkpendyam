@@ -34,7 +34,7 @@ I work at the intersection of data analysis and machine learning, building end-t
 |---|---|---|
 | [Brain Tumor Detection](https://github.com/nkpendyam/Brain_Tumor_Detection_Using_Image_Processing) | CNN/Transformer Ensemble, PyTorch, Gradio | Healthcare AI, 98.25% accuracy |
 | [Lung Cancer Prediction](https://github.com/nkpendyam/Lung_cancer_prediction) | scikit-learn, Python | Health ML, 91.26% accuracy |
-| [Credit Card Default Risk Analysis](https://github.com/nkpendyam/credit-card-default-risk-analysis) | Pandas, EDA, Logistic Regression, Random Forest | Financial Risk Analytics |
+| [Credit Card Default Risk Analysis](https://github.com/nkpendyam/credit_risk_analysis) | Pandas, EDA, Logistic Regression, Random Forest | Financial Risk Analytics |
 | [Kyro IDE](https://github.com/nkpendyam/Kyro_IDE) | Rust, Next.js, Local LLMs | AI Developer Tools |
 | [Kyro VPN](https://github.com/nkpendyam/Kyro_VPN) | Flutter, Go, WireGuard/Xray-core | Self-hosted Privacy Tooling |
 | [LumaTorrent](https://github.com/nkpendyam/lumatorrent) | Tauri, React, Rust, C++ | Desktop App Engineering |
